@@ -8,5 +8,7 @@ public class Sample {
 		
 		
 		System.out.println("motta");
+		System.out.println("gfdghjk");
+		System.out.println("hfgcvbhjk");
 	}
 }
